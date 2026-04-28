@@ -263,84 +263,17 @@ plt.show()
 
 
 
+<img width="814" height="631" alt="image" src="https://github.com/user-attachments/assets/f890abfe-84ca-4f9e-b2b9-5795a1f5f58b" />
 
   
-  5.Read 'Apollo-11-launch.jpg' and Display the final annotated image:
+<img width="855" height="631" alt="image" src="https://github.com/user-attachments/assets/3a3bbb68-a15a-496c-8617-9d93cd46d53b" />
+
+<img width="780" height="585" alt="image" src="https://github.com/user-attachments/assets/ea21d293-2c59-4b44-8c17-3cedc5da1cb7" />
 
 
 
-
-![Screenshot 2025-03-11 082700](https://github.com/user-attachments/assets/564d076b-ed47-4903-8afe-52dc989b0800)
-
-
-
-
-  
-*ii)** Adjust Image Brightness.
-
-
-
-1.Create brighter and darker images and display:
-
-
-
-
-![image](https://github.com/user-attachments/assets/f34966ee-21f9-4441-bdd4-36c3da71b89d)
-
-
-
-  **iii)** Modify Image Contrast.
-
-
-1.Modify contrast using scaling factors 1.1 and 1.2
-
- 
-![image](https://github.com/user-attachments/assets/998698a5-0d84-4f73-96d6-68421a529951)
- 
-
- **iv)** Generate Third Image Using Bitwise Operations.
-
-
- 
- 1.Split 'Boy.jpg' into B, G, R components and display: 
-
-
-
-![image](https://github.com/user-attachments/assets/54d59ef6-9800-4ff4-af13-f15fd602d334)
-
-
-
-
-2.Merge the R, G, B channels and display:
-
-
-
-![Screenshot 2025-03-11 082425](https://github.com/user-attachments/assets/6db4d2a2-8b21-43e5-976a-8f199eebc8cc)
-
-
-
-
-
-
-3.Split the image into H, S, V components and display:
-
-
-
-
-![Screenshot 2025-03-11 082414](https://github.com/user-attachments/assets/e5a79c38-d998-4ced-82d2-d750d465572d)
-
-
-
-
-
-4.Merge the H, S, V channels and display:
-
-
-
-![Screenshot 2025-03-11 082402](https://github.com/user-attachments/assets/2e2034ed-8cc3-4855-a8cb-87632e161c80)
 
 
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
-
